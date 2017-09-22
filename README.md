@@ -14,3 +14,7 @@ A small simulator of the "die and matchsticks" game from Eliyahu M. Goldratt's "
 **convergence to 3.5 first million rounds.png** : picture showing how dieMatch converges to throughput of 3.5
 
 **WIP size simplified simulation.png** : picture showing how the WIP (sum of tokens in intermediate bowls) changes over 100 billion rounds
+
+To run the nim simulation: ```nim compile -d:release --opt:speed --run dieMatch.nim```
+
+To run the coffeescript simulation: go to the coffeescript.org page, paste-in the code, open the dev console, click play.
