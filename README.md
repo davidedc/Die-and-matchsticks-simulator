@@ -12,4 +12,5 @@ A small simulator of the "die and matchsticks" game from Eliyahu M. Goldratt's "
 **dieMatchResults100Billions.csv** : results of dieMatch
 
 **convergence to 3.5 first million rounds.png** : picture showing how dieMatch converges to throughput of 3.5
-WIP size simplified simulation.png: picture showing how the WIP (sum of tokens in intermediate bowls) changes over 100 billion rounds
+
+**WIP size simplified simulation.png** : picture showing how the WIP (sum of tokens in intermediate bowls) changes over 100 billion rounds
