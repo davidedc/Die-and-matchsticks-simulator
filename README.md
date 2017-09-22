@@ -1,5 +1,5 @@
 # Die-and-matchsticks-simulator
-A small simulator of the "die and matchsticks" game from Eliyahu M. Goldratt's "The Goal". Related to blog post at: [https://github.com/davidedc/Die-and-matchsticks-simulator]
+A small simulator of the "die and matchsticks" game from Eliyahu M. Goldratt's "The Goal". Related to blog post at: https://github.com/davidedc/Die-and-matchsticks-simulator
 
 **dieMatch.nim** : simulation of the full game, 5 robots, 1 to 6 tokens
 
